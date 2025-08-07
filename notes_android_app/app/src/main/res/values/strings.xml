@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">notes_android_app</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="delete_note_confirm">Delete this note?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="write_note">Write your note...</string>
+    <string name="title">Title</string>
+    <string name="search_hint">Search notes...</string>
+    <string name="toggle_theme">Toggle Theme</string>
 </resources>

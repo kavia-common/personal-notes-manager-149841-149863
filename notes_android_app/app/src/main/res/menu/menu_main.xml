@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/search_hint"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:actionViewClass="androidx.appcompat.widget.SearchView"/>
+    <item
+        android:id="@+id/action_toggle_theme"
+        android:title="@string/toggle_theme"
+        android:icon="@android:drawable/ic_menu_day"
+        android:showAsAction="ifRoom"/>
+</menu>
